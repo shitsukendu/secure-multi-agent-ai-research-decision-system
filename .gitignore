@@ -1,0 +1,26 @@
+.env
+.venv/
+pycache/
+*.pyc
+
+Runtime data
+
+data/
+evidence/evidence.json
+
+Logs
+
+logs/
+*.log
+
+Python cache
+
+*.pyo
+*.pyd
+
+IDE / OS files
+
+.vscode/
+.idea/
+Desktop.ini
+Thumbs.db

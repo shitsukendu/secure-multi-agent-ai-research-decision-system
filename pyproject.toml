@@ -1,0 +1,14 @@
+[project]
+name = "secure-multi-agent-ai"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.15.1",
+    "langchain>=1.4.3",
+    "langchain-google-genai>=4.4.0",
+    "langgraph>=1.2.12",
+    "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.1.0",
+    "streamlit>=1.65.0",
+    "tavily-python>=0.8.4",
+]
