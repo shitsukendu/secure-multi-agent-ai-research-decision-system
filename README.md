@@ -5,8 +5,8 @@ An AI research and decision-support project designed around a modular, multi-age
 <!-- Add your actual deployment and repository URLs below. -->
 ## 🔗 Project Links
 
-- **Live Demo (Streamlit Cloud):** [https://secure-multi-agent-ai-research-decision-system-cqqj2faeabjeapp.streamlit.app/](#)
-- **GitHub Repository:** [https://shitsukendu.github.io/secure-multi-agent-ai-research-decision-system/](#)
+- **Live Demo (Streamlit Cloud):** [https://secure-multi-agent-ai-research-decision-system-cqqj2faeabjeapp.streamlit.app/]
+- **GitHub Repository:** [https://shitsukendu.github.io/secure-multi-agent-ai-research-decision-system/]
 
 ---
 
